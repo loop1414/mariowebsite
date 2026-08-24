@@ -1,0 +1,1 @@
+Claude, whatever is in this folder (00_work) do not touch. this is a folder I have in order to do my renders and all the other things needed in order to be imported later in the website.
